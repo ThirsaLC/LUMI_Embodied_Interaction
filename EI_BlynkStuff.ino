@@ -1,7 +1,7 @@
 //Script for ball 1 - Blue arduino with pins on the bottom
-#define BLYNK_TEMPLATE_ID "TMPL4m3VXFfeR"
-#define BLYNK_TEMPLATE_NAME "EI MKR1000"
-#define BLYNK_AUTH_TOKEN "ckV7pD0m0KB66zkq1Rsg4wJq-bUrC4XT"  //EI ARDUINO
+#define BLYNK_TEMPLATE_ID "OWN_TEMPLATE_ID"
+#define BLYNK_TEMPLATE_NAME "OWN_TEMPLATE_NAME"
+#define BLYNK_AUTH_TOKEN "OWN_AUTHORITY_TOKEN"  //EI ARDUINO
 
 #include <BlynkSimpleMKR1000.h>
 #include <SPI.h>
